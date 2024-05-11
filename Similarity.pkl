@@ -1,0 +1,1 @@
+Cosine Similarity vector wil be stored here which is extracted from main.ipynb file as a pickle file.
